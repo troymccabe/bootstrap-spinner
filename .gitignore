@@ -1,0 +1,9 @@
+# deps
+bower_components/
+node_modules/
+
+# jetbrains products
+.idea/
+
+# system
+.DS_Store
